@@ -1,0 +1,14 @@
+C:\Users\DELL USA\Desktop\C#\Month2\Week3\Classwork2\thetask\bin\Debug\net8.0\thetask.exe
+C:\Users\DELL USA\Desktop\C#\Month2\Week3\Classwork2\thetask\bin\Debug\net8.0\thetask.deps.json
+C:\Users\DELL USA\Desktop\C#\Month2\Week3\Classwork2\thetask\bin\Debug\net8.0\thetask.runtimeconfig.json
+C:\Users\DELL USA\Desktop\C#\Month2\Week3\Classwork2\thetask\bin\Debug\net8.0\thetask.dll
+C:\Users\DELL USA\Desktop\C#\Month2\Week3\Classwork2\thetask\bin\Debug\net8.0\thetask.pdb
+C:\Users\DELL USA\Desktop\C#\Month2\Week3\Classwork2\thetask\obj\Debug\net8.0\thetask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL USA\Desktop\C#\Month2\Week3\Classwork2\thetask\obj\Debug\net8.0\thetask.AssemblyInfoInputs.cache
+C:\Users\DELL USA\Desktop\C#\Month2\Week3\Classwork2\thetask\obj\Debug\net8.0\thetask.AssemblyInfo.cs
+C:\Users\DELL USA\Desktop\C#\Month2\Week3\Classwork2\thetask\obj\Debug\net8.0\thetask.csproj.CoreCompileInputs.cache
+C:\Users\DELL USA\Desktop\C#\Month2\Week3\Classwork2\thetask\obj\Debug\net8.0\thetask.dll
+C:\Users\DELL USA\Desktop\C#\Month2\Week3\Classwork2\thetask\obj\Debug\net8.0\refint\thetask.dll
+C:\Users\DELL USA\Desktop\C#\Month2\Week3\Classwork2\thetask\obj\Debug\net8.0\thetask.pdb
+C:\Users\DELL USA\Desktop\C#\Month2\Week3\Classwork2\thetask\obj\Debug\net8.0\thetask.genruntimeconfig.cache
+C:\Users\DELL USA\Desktop\C#\Month2\Week3\Classwork2\thetask\obj\Debug\net8.0\ref\thetask.dll
